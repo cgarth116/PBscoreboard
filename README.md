@@ -27,4 +27,4 @@ Functionality:
 The program is constantly in the process of improvement(adding new functionality) so the use of "as it is"...
 
 🐱‍💻 If you need a trial, use the hint:
-     White Rabbit advises you to count : Int(Password \ 10000) * Int(Password \ 10000) + Int(Password \ 7) + 1051981
+     🐰 White Rabbit advises you to count : Int(Password \ 10000) * Int(Password \ 10000) + Int(Password \ 7) + 1051981
