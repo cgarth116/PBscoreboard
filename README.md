@@ -1,4 +1,5 @@
 # PBscoreboard
+
 Software and hardware complex for the paintball tournament.
 
 At the moment, a PC program is implemented, an LED information board in the field, radio buttons on banners with a choice of power type batteries\accumulators, duplication of part of the information from the screen of the referee informant on TV(main time\pit time\score\names of playing teams\presence of timeouts), in test mode, the statistics of matches are recorded.
